@@ -1,0 +1,323 @@
+Dishoom
+Bageriet
+The Palomar Restaurant
+Dishoom
+Dishoom
+Hawksmoor Seven Dials
+Ffiona・s Restaurant
+The Ledbury
+Dinner by Heston Blumenthal
+Friends of Ours
+Restaurant Gordon Ramsay
+Kitchen Table
+Barrafina
+Homeslice
+Goodman
+Big Apple Hot Dogs
+Honest Burgers
+Flat Iron
+Great Queen Street
+H T Harris
+Tower Bridge
+TY Seven Dials - Timberyard
+Friends of Ours
+Restaurant Gordon Ramsay
+Kitchen Table
+Barrafina
+Homeslice
+St. Paul・s Cathedral
+Kaffeine
+Goodman
+Big Apple Hot Dogs
+Honest Burgers
+Tower of London
+The Harp
+Flat Iron
+Great Queen Street
+H T Harris
+NOPI
+Primrose Hill
+26 Grains
+Bailey・s Fish and Chips
+Boro Bistro
+La Fromagerie
+Alchemy
+Flat Iron
+Savoir Faire
+Fera at Claridge・s
+Kanada-Ya
+Sushi Tetsu
+The Tiroler Hut Restaurant
+Artesian Bar
+Il Portico
+Zaika of Kensington
+Burger & Lobster
+The Fat Bear
+Hawksmoor
+Fera at Claridge・s
+Nightjar
+Clos Maggiore
+Le Gavroche
+Sky Garden
+('The Regent・s Park',)
+('\n        Chester RoadLondon NW1 4NRUnited Kingdom\n    ',)
+
+        030 0061 2300
+    
+('Dishoom',)
+('\n        22 Kingly StreetLondon W1B 5QPUnited Kingdom\n    ',)
+
+        020 7420 9322
+    
+('Hyde Park',)
+('\n        London W2 2UHUnited Kingdom\n    ',)
+
+        030 0061 2114
+    
+('Big Ben',)
+('\n        London SW1A 0AAUnited Kingdom\n    ',)
+
+        020 7219 4272
+    
+('St James・s Park',)
+('\n        London SW1A 2BJUnited Kingdom\n    ',)
+
+
+('Bageriet',)
+('\n        24 Rose StreetLondon WC2E 9EAUnited Kingdom\n    ',)
+
+        020 7240 0000
+    
+('The Palomar Restaurant',)
+('\n        34 Rupert StreetLondon W1D 6DNUnited Kingdom\n    ',)
+
+        020 7439 8777
+    
+('Dishoom',)
+("\n        12 Upper Saint Martin's LaneLondon WC2H 9FBUnited Kingdom\n    ",)
+
+        020 7420 9320
+    
+('Westminster Abbey',)
+("\n        20 Dean's YardLondon SW1P 3PAUnited Kingdom\n    ",)
+
+        020 7222 5152
+    
+('Churchill War Rooms',)
+('\n        King Charles StreetLondon SW1A 2AQUnited Kingdom\n    ',)
+
+        020 7930 6961
+    
+('Hawksmoor Seven Dials',)
+('\n        11 Langley StreetLondon WC2H 9JGUnited Kingdom\n    ',)
+
+        020 7420 9390
+    
+('Dishoom',)
+('\n        5 Stable StreetLondon N1C 4ABUnited Kingdom\n    ',)
+
+        020 7420 9321
+    
+('Gordon・s Wine Bar',)
+('\n        47 Villiers StreetLondon WC2N 6NEUnited Kingdom\n    ',)
+
+        020 7930 1408
+    
+('Ffiona・s Restaurant',)
+('\n        51 Kensington Church StreetLondon W8 4BAUnited Kingdom\n    ',)
+
+        020 7937 4152
+    
+('Monmouth Coffee',)
+('\n        27 Monmouth StreetLondon WC2H 9EUUnited Kingdom\n    ',)
+
+        020 7232 3010
+    
+('The Ledbury',)
+('\n        127 Ledbury RoadLondon W11 2AQUnited Kingdom\n    ',)
+
+        020 7792 9090
+    
+('Dinner by Heston Blumenthal',)
+('\n        66 KnightsbridgeLondon SW1X 7LAUnited Kingdom\n    ',)
+
+        020 7201 3833
+    
+('Monmouth Coffee',)
+('\n        2 Park StreetLondon SE1 9ABUnited Kingdom\n    ',)
+
+        020 7232 3010
+    
+('Connaught Bar',)
+('\n        Carlos PlaceLondon W1K 2ALUnited Kingdom\n    ',)
+
+        020 7314 3419
+    
+('Houses of Parliament',)
+('\n        WestminsterLondon SW1A 0AAUnited Kingdom\n    ',)
+
+        020 7219 3000
+    
+('NOPI',)
+('\n        21-22 Warwick StreetLondon W1B 5NEUnited Kingdom\n    ',)
+
+        020 7494 9584
+    
+('The English Rose Cafe and Tea Shop',)
+('\n        4 Lower Grosvenor PlaceLondon SW1W 0EJUnited Kingdom\n    ',)
+
+        020 7976 6280
+    
+('Gymkhana',)
+('\n        42 Albemarle StreetLondon W1S 4JHUnited Kingdom\n    ',)
+
+        020 3011 5900
+    
+('Quilon Restaurant',)
+('\n        41 Buckingham GateLondon SW1E 6AFUnited Kingdom\n    ',)
+
+        020 7821 1899
+    
+('Il Portico',)
+('\n        277 Kensington High StreetLondon W8 6NAUnited Kingdom\n    ',)
+
+        020 7602 6262
+    
+('Burger & Lobster',)
+('\n        29 Clarges StreetLondon W1J 7EFUnited Kingdom\n    ',)
+
+        020 7409 1699
+    
+('Falla & Mocaer',)
+('\n        82 ParkwayLondon NW1 7ANUnited Kingdom\n    ',)
+
+        020 7428 7586
+    
+('26 Grains',)
+("\n        1 Neal's YardLondon WC2H 9DPUnited Kingdom\n    ",)
+
+
+('Il Blandford・s',)
+('\n        65 Chiltern StreetLondon W1U 6NHUnited Kingdom\n    ',)
+
+        020 7486 4117
+    
+('Zaika of Kensington',)
+('\n        1 Kensington High StreetLondon W8 5NPUnited Kingdom\n    ',)
+
+        020 7795 6533
+    
+('Big Apple Hot Dogs',)
+('\n        170 Caledonian RdLondon N1 0SQUnited Kingdom\n    ',)
+
+        020 3592 5526
+    
+('Honest Burgers',)
+('\n        4A Meard StreetLondon W1F 0EFUnited Kingdom\n    ',)
+
+        020 3609 9524
+    
+('Tower of London',)
+('\n        Tower HillLondon EC3N 4ABUnited Kingdom\n    ',)
+
+        020 3166 6000
+    
+('The Harp',)
+('\n        47 Chandos PlaceLondon WC2N 4HSUnited Kingdom\n    ',)
+
+        020 7836 0291
+    
+('Flat Iron',)
+('\n        17 Beak StreetLondon W1F 9RWUnited Kingdom\n    ',)
+
+        01234 567891
+    
+('Great Queen Street',)
+('\n        32 Great Queen StreetLondon WC2B 5AAUnited Kingdom\n    ',)
+
+        020 7242 0622
+    
+('H T Harris',)
+('\n        41 Great Titchfield StreetLondon W1W 7PGUnited Kingdom\n    ',)
+
+        020 7636 4228
+    
+('NOPI',)
+('\n        21-22 Warwick StreetLondon W1B 5NEUnited Kingdom\n    ',)
+
+        020 7494 9584
+    
+('Primrose Hill',)
+('\n        Primrose Hill RoadLondon NW3 3NAUnited Kingdom\n    ',)
+
+        020 7486 7905
+    
+('26 Grains',)
+("\n        1 Neal's YardLondon WC2H 9DPUnited Kingdom\n    ",)
+
+
+('Ye Olde Mitre Inn',)
+('\n        1 Ely CourtLondon EC1N 6SJUnited Kingdom\n    ',)
+
+        020 7405 4751
+    
+('The Blind Pig',)
+('\n        58 Poland StreetLondon W1F 7NRUnited Kingdom\n    ',)
+
+        020 7993 3251
+    
+('The English Rose Cafe and Tea Shop',)
+('\n        4 Lower Grosvenor PlaceLondon SW1W 0EJUnited Kingdom\n    ',)
+
+        020 7976 6280
+    
+('Gymkhana',)
+('\n        42 Albemarle StreetLondon W1S 4JHUnited Kingdom\n    ',)
+
+        020 3011 5900
+    
+('American Bar',)
+('\n        The Savoy HotelLondon WC2R 0EUUnited Kingdom\n    ',)
+
+        020 7836 4343
+    
+('Quilon Restaurant',)
+('\n        41 Buckingham GateLondon SW1E 6AFUnited Kingdom\n    ',)
+
+        020 7821 1899
+    
+('Burger & Lobster',)
+('\n        29 Clarges StreetLondon W1J 7EFUnited Kingdom\n    ',)
+
+        020 7409 1699
+    
+('Falla & Mocaer',)
+('\n        82 ParkwayLondon NW1 7ANUnited Kingdom\n    ',)
+
+        020 7428 7586
+    
+('Il Blandford・s',)
+('\n        65 Chiltern StreetLondon W1U 6NHUnited Kingdom\n    ',)
+
+        020 7486 4117
+    
+('Patty & Bun',)
+('\n        54 James StreetLondon W1U 1HEUnited Kingdom\n    ',)
+
+        020 7487 3188
+    
+('Friends of Ours',)
+('\n        61 Pitfield StreetLondon N1 6BUUnited Kingdom\n    ',)
+
+        07545 939751
+    
+('Houses of Parliament',)
+('\n        WestminsterLondon SW1A 0AAUnited Kingdom\n    ',)
+
+        020 7219 3000
+    
+('Zaika of Kensington',)
+('\n        1 Kensington High StreetLondon W8 5NPUnited Kingdom\n    ',)
+
+        020 7795 6533
+    
